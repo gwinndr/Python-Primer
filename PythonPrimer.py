@@ -127,7 +127,7 @@ def main(argc, argv):
         print("Alternative way to say di_5 was nothing...")
 
     # SELF-EVAL:
-    #   Make a dictionary of dictionaries representing a phon
+    #   Make a dictionary of dictionaries representing a phone book
     #   This should match a city dict to a person dict which maps to a phone number
     # EXAMPLE:
     #   potsdam_dict = city_dict["Potsdam"]
