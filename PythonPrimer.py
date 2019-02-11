@@ -101,6 +101,7 @@ def main(argc, argv):
     # SELF-EVAL:
     #   Create a list of lists, x, and print it out
     #   Append x with the number of lists inside using the len() function
+    # EX: x -> [ [1,2], [3,4], [5,6], 3 ]
 
     ##### DICTS #####
     # This is the equivalent of a map in C++
